@@ -22,4 +22,4 @@ int main()
     return 0;
 }
 //1654
-//Time limit exceeded	1.046	560 КБ
+//Time limit exceeded	1.046	152 КБ
